@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="929" started-at="2018-01-13T03:35:41Z" finished-at="2018-01-13T03:35:42Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="929" started-at="2018-01-13T03:35:41Z" finished-at="2018-01-13T03:35:42Z">
+      <class name="com.ecample.FormTest">
+        <test-method status="PASS" signature="doGet(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.ecample.FormTest@21b5c5b3]" name="doGet" duration-ms="566" started-at="2018-01-13T11:35:41Z" data-provider="feeder" finished-at="2018-01-13T11:35:41Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[3]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doGet -->
+        <test-method status="PASS" signature="doGet(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.ecample.FormTest@21b5c5b3]" name="doGet" duration-ms="17" started-at="2018-01-13T11:35:41Z" data-provider="feeder" finished-at="2018-01-13T11:35:41Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[3]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[5]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doGet -->
+        <test-method status="PASS" signature="doGet(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.ecample.FormTest@21b5c5b3]" name="doGet" duration-ms="15" started-at="2018-01-13T11:35:41Z" data-provider="feeder" finished-at="2018-01-13T11:35:41Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[3]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[4]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[7]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doGet -->
+        <test-method status="PASS" signature="doGet(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.ecample.FormTest@21b5c5b3]" name="doGet" duration-ms="13" started-at="2018-01-13T11:35:41Z" data-provider="feeder" finished-at="2018-01-13T11:35:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[4]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[5]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[9]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doGet -->
+      </class> <!-- com.ecample.FormTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
